@@ -9,6 +9,7 @@ Realizar los siguientes puntos:
 4. Para el ejemplo anterior, utilizar un **String Template** para imprimir el texto: `"El perímetro del círculo es: $resultado"`, siendo resultado nuestra variable perímetro.
 ### La ecuación de la pendiente se obtiene por la siguiente expresión:
 $$m = \frac{{y2 - y1}}{{x2 - x1}}$$
+
 5. Expresarla ahora con operadores.
 6. Resolver el valor de la pendiente, tomando en cuenta que `P1(4,3), P2(-3,-2)`.
 7. Del ejercicio anterior, responder: ¿Por qué el resultado obtenido difiere del resultado esperado?

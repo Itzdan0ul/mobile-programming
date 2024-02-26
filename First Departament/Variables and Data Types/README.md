@@ -10,6 +10,7 @@ Make the following points:
 4. For the previous example, use a **String Template** to print the text `"The perimeter of the circle is: [result]"` being result our perimeter variable. 
 ### The slope equation is obtained by the following expression:
 $$m = \frac{{y2 - y1}}{{x2 - x1}}$$
+
 5. Express it now with operators.
 6. Solve the value of the slope, taking into account that `P1(4,3), P2(-3,-2)`.
 7. From the previous exercise, answer: Why does the result obtained differ from the expected result?

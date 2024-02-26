@@ -46,6 +46,7 @@ fun main() {
 ```
 ### La ecuación de la pendiente se obtiene por la siguiente expresión:
 $$m = \frac{{y2 - y1}}{{x2 - x1}}$$
+
 5. Expresarla ahora con operadores.
 6. Resolver el valor de la pendiente, tomando en cuenta que `P1(4,3), P2(-3,-2)`.
 ```kotlin
