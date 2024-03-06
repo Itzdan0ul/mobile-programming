@@ -157,6 +157,6 @@ fun countNameOccurrences(): Int {
 }
 
 /* Este código de ejemplo produce la siguiente salida:
-    Hay 11 que se repiten.
+    Hay 10 que se repiten.
 */
 ```
