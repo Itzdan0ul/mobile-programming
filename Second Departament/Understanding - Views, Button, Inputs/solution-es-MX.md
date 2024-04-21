@@ -1,5 +1,7 @@
 # Comprensión: Views, Button, Inputs e Imágenes
 
+### Por Urtiz López Dan Jair
+
 ### Instrucciones
 
 **_Nota_**: *Para realizar este actividad es necesario continuar con el ejercicio realizado en clase y seguir las siguientes instrucciones.*
