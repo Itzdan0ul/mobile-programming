@@ -13,8 +13,3 @@ Codelab: Cómo lograr la persistencia de los datos con Room
 <p align="center">
   <img src=".github/codelab_4.gif" width="200" height="auto" title="UI Example" />
 </p>
-
-Codelab: Cómo lograr la persistencia de los datos con Room
-<p align="center">
-  <img src=".github/codelab_4.gif" width="200" height="auto" title="UI Example" />
-</p>
