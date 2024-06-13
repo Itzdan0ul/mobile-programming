@@ -11,5 +11,5 @@ Sigue las instrucciones del siguiente CodeLab: https://developer.android.com/cou
 
 Codelab: Cómo lograr la persistencia de los datos con Room
 <p align="center">
-  <img src=".github/codelab_4.gif" width="200" height="auto" title="UI Example" />
+  <img src=".github/codelab.gif" width="200" height="auto" title="UI Example" />
 </p>
