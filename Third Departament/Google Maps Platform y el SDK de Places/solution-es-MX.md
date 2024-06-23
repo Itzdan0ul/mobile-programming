@@ -8,5 +8,5 @@ Lleva a cabo el siguiente CodeLabs: https://developers.google.com/codelabs/maps-
 
 Codelab: Crea tu propio selector de lugares actuales para Android (Java)
 <p align="center">
-  <img src=".github/codelab.gif" width="200" height="auto" title="UI Example" />
+  <img src=".github/codelab.png" width="200" height="auto" title="UI Example" />
 </p>
